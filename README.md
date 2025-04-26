@@ -10,4 +10,4 @@ First HTML Practice Projects. This HTML Projects Created For Practice Purposes. 
 Dipsan-10 – Student At Aso College of Information Technology
 
 # Goal
-To Improve Web development Skills And Build A Good Portfolio For Job Hunting In Japan.
+To Improve Web Development Skills And Build A Good Portfolio For Job Hunting In Japan.
