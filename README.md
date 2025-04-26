@@ -1,5 +1,5 @@
 # Html-Practice
-First HTML Practice Projects. This HTML Projects Created For Practice Purposes. It Includes Examples of Paragraphs, Links, Images, Forms, And Tables.
+First HTML Practice Projects. This HTML Projects Was Created For Practice Purposes. It Includes Examples of Paragraphs, Links, Images, Forms, And Tables.
 
 # Features
 - HTML5 Structure
