@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Registration Form </title>
+</head>
+<body>
+    <h1>Student Registration Form</h1>
+    <form>
+    <fieldset>
+                <!-- Personal Information-->
+    <legend> Please Fill This Form</legend>
+        <label>Full Name: </label>
+        <input type="text" name="Fullname"><br>
+        <label> Phone Number: </label>
+        <input type="number" name="Number"><br>
+                <!-- Gander Choose-->
+        <label> Gender</label>
+        <input type="radio" name="gander">Male
+        <input type="radio" name="gander">Female<br>
+                <!-- Country Details-->
+        <label> Choose Country: </label>
+            <select>
+                <option value ="nepal">Nepal</option>
+                <option value="japan">japan</option>
+                <option value="india">India</option>
+                <option value="bhutan">Bhutan</option>
+            </select><br>
+                <!-- Intrest-->
+        <label> Input Your Interest: </label>
+        <input type="checkbox" name="sport">Sports
+        <input type="checkbox" name="dance">Dance
+        <input type="checkbox" name="sing">Sing A Song
+        <input type="checkbox" name="read">Read A Book
+        <input type="checkbox" name="play">Play A Game
+        <input type="checkbox" name="watch">Movie<br>
+                <!-- Email Details-->
+        <label> Email: </label>
+        <input type="email" name="Email"><br>
+                <!-- Password-->
+        <label> Password:</label>
+        <input type="password" name="Password"><br>
+        <input type="submit" name="Submit"><br>
+    </feldset>
+    </form>
+</body>
+</html>
